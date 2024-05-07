@@ -1,0 +1,1 @@
+This is a series of exercises that I have carried out during my Artificial Intelligence programming class. I am very grateful to my teacher for guiding and supporting me throughout the course. Here is the link to my teacher's GitHub page: [thieu1995](https://github.com/thieu1995).
